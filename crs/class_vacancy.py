@@ -10,6 +10,9 @@ class Vacancy:
     def __lt__(self, other):
         return self.salary < other.salary
 
+    # def to_json(self, text, url, requirement, responsibility, salary, currency):
+    #     return {text, url, requirement, responsibility, salary, currency}
+
     def __str__(self):
-        return (f'Название: {self.text}\nТребования: {self.requirement}\nОбязанности: {self.responsibility}\n'
-                f'Ссылка на вакансию: {self.url}\nЗарплата от: {self.salary} {self.salary_cor}\n')
+        return (f'\nНазвание: {self.text}\nТребования: {self.requirement}\nОбязанности: {self.responsibility}\n'
+                f'Ссылка на вакансию: {self.url}\nЗарплата от: {self.salary} {self.salary_cor}')

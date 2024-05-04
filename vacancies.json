@@ -1,1 +1,802 @@
-{"items":[{"id":"93353083","premium":false,"name":"Тестировщик комфорта квартир","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"26","name":"Воронеж","url":"https://api.hh.ru/areas/26"},"salary":{"from":350000,"to":450000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-16T14:58:28+0300","created_at":"2024-02-16T14:58:28+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93353083","branding":{"type":"CONSTRUCTOR","tariff":"BASIC"},"show_logo_in_search":true,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93353083?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93353083","relations":[],"employer":{"id":"3499705","name":"Специализированный застройщик BM GROUP","url":"https://api.hh.ru/employers/3499705","alternate_url":"https://hh.ru/employer/3499705","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1214854.png","240":"https://hhcdn.ru/employer-logo/6479866.png","90":"https://hhcdn.ru/employer-logo/6479865.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3499705","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Занимать активную жизненную позицию, уметь активно танцевать и громко петь. Обладать навыками коммуникации, чтобы налаживать добрососедские отношения. Обладать системным мышлением...","responsibility":"Оценивать вид из окна: встречать рассветы на кухне, и провожать алые закаты в спальне. Оценивать инфраструктуру района: ежедневно ходить на..."},"contacts":null,"schedule":{"id":"flexible","name":"Гибкий график"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"107","name":"Руководитель проектов"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223756","premium":false,"name":"Удаленный диспетчер чатов (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:37:04+0300","created_at":"2024-01-25T17:37:04+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223756","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223756?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223756","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223870","premium":false,"name":"Удаленный специалист службы поддержки (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:39:01+0300","created_at":"2024-01-25T17:39:01+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223870","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223870?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223870","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92752367","premium":false,"name":"Менеджер по продажам недвижимости","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":500000,"to":1000000,"currency":"KZT","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-06T11:30:02+0300","created_at":"2024-02-06T11:30:02+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92752367","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92752367?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92752367","relations":[],"employer":{"id":"1418491","name":"Витрина Недвижимости","url":"https://api.hh.ru/employers/1418491","alternate_url":"https://hh.ru/employer/1418491","logo_urls":{"240":"https://hhcdn.ru/employer-logo/2935217.jpeg","90":"https://hhcdn.ru/employer-logo/2935216.jpeg","original":"https://hhcdn.ru/employer-logo-original/623516.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1418491","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Отличные коммуникативные навыки, способность найти подход к каждому клиенту. Навыки проведения деловых переговоров. Наличие амбициозных целей и успешный опыт их...","responsibility":"Анализ рынка и объектов недвижимости. Предварительная оценка недвижимости. Подбор объектов недвижимости в интересах клиентов. Консультирование клиентов по купле-продаже объектов..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"6","name":"Агент по недвижимости"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223673","premium":false,"name":"Менеджер чатов, удалённо (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:34:32+0300","created_at":"2024-01-25T17:34:32+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223673","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223673?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223673","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93209001","premium":false,"name":"Бортпроводник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":null,"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-14T12:32:06+0300","created_at":"2024-02-14T12:32:06+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93209001","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93209001?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93209001","relations":[],"employer":{"id":"4621904","name":"«MY FREIGHTER» LLC","url":"https://api.hh.ru/employers/4621904","alternate_url":"https://hh.ru/employer/4621904","logo_urls":{"90":"https://hhcdn.ru/employer-logo/3387665.png","240":"https://hhcdn.ru/employer-logo/3387666.png","original":"https://hhcdn.ru/employer-logo-original/736672.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=4621904","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Образование: среднее полное (11 классов), среднее специальное, высшее. Обязательное владение узбекским, русским и английским языками. Готовность работать согласно графику полетов. ","responsibility":"Обеспечение безопасности на борту. Встреча и размещение пассажиров на борту. Инструктаж перед взлетом. Организация питания пассажиров во время полета. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"159","name":"Бортпроводник"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92195003","premium":false,"name":"Наборщик текста/верстальщик","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1002","name":"Минск","url":"https://api.hh.ru/areas/1002"},"salary":{"from":800,"to":null,"currency":"BYR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T11:58:58+0300","created_at":"2024-01-25T11:58:58+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92195003","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92195003?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92195003","relations":[],"employer":{"id":"3814315","name":"ПроТекст","url":"https://api.hh.ru/employers/3814315","alternate_url":"https://hh.ru/employer/3814315","logo_urls":{"240":"https://hhcdn.ru/employer-logo/3116885.jpeg","90":"https://hhcdn.ru/employer-logo/3116884.jpeg","original":"https://hhcdn.ru/employer-logo-original/668938.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3814315","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"уверенное владение ПЭВМ (программы OCR - FineReader и аналоги, глубокое знание функций MS Word - Вставка, Макет, Конструктор таблиц). - возможность и готовность...","responsibility":"выполнение распознания документов в формате ,pdf, .jpg, .png на русском / английском языке, макетирование и форматирование в MS Word. - "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[{"id":"from_four_to_six_hours_in_a_day","name":"Можно работать сменами по 4–6 часов в день"}],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"84","name":"Оператор ПК, оператор базы данных"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"part","name":"Частичная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93166058","premium":false,"name":"Менеджер по продажам (МЕРКАТОР)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"88","name":"Казань","url":"https://api.hh.ru/areas/88"},"salary":{"from":160000,"to":null,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Казань","street":"Приволжский район, жилой массив Отары, Дорожная улица","building":"1к10","lat":55.724135,"lng":49.098078,"description":null,"raw":"Казань, Приволжский район, жилой массив Отары, Дорожная улица, 1к10","metro":null,"metro_stations":[],"id":"15161689"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T19:21:57+0300","created_at":"2024-02-13T19:21:57+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93166058","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93166058?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93166058","relations":[],"employer":{"id":"1060821","name":"Рост Развитие Решение","url":"https://api.hh.ru/employers/1060821","alternate_url":"https://hh.ru/employer/1060821","logo_urls":{"90":"https://hhcdn.ru/employer-logo/874868.jpeg","240":"https://hhcdn.ru/employer-logo/874869.jpeg","original":"https://hhcdn.ru/employer-logo-original/85446.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1060821","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт в продажах. Опыт работы с клиентами. Умение проводить переговоры. Мобильность.","responsibility":"Расширение клиентской базы. Проведение презентаций и переговоров. Заключение договоров. Отчетность в установленной форме."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"91178034","premium":false,"name":"Оператор call-центра","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":3500000,"to":20000000,"currency":"UZS","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T10:10:00+0300","created_at":"2024-01-25T10:10:00+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=91178034","insider_interview":null,"url":"https://api.hh.ru/vacancies/91178034?host=hh.ru","alternate_url":"https://hh.ru/vacancy/91178034","relations":[],"employer":{"id":"9522635","name":"IN-FIN-STROY INVEST","url":"https://api.hh.ru/employers/9522635","alternate_url":"https://hh.ru/employer/9522635","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9522635","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Пожалуйста ознакомьтесь внимательно. Грамотная речь. Знание узбекского и русского языков. Отличное знание ПК. Коммуникабельность. Эмоциональная устойчивость. Вежливость, грамотность, любознательность, ответственность...","responsibility":"Прием и обработка входящих звонков и исходящих звонков. Консультирование клиентов по телефону. Предоставление клиентам информации о компании. Осуществление исходящих информационных..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"83","name":"Оператор call-центра, специалист контактного центра"}],"accept_incomplete_resumes":true,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92818620","premium":false,"name":"Менеджер по работе с клиентами","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":418500,"to":1000000,"currency":"KZT","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Астана","street":"улица Анет баба","building":"5","lat":51.133893,"lng":71.382854,"description":null,"raw":"Астана, улица Анет баба, 5","metro":null,"metro_stations":[],"id":"14393855"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-07T11:34:26+0300","created_at":"2024-02-07T11:34:26+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92818620","insider_interview":null,"url":"https://api.hh.ru/vacancies/92818620?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92818620","relations":[],"employer":{"id":"10013830","name":"Агентство Недвижимости Абажур","url":"https://api.hh.ru/employers/10013830","alternate_url":"https://hh.ru/employer/10013830","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=10013830","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Не важно есть опыт у тебя или нет, я могу точно сказать, что ты сможешь зарабатывать в этой сфере!!! ","responsibility":null},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93119114","premium":false,"name":"Стажер","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":2000000,"to":2000000,"currency":"UZS","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Ташкент","street":"улица Мукими","building":"166","lat":41.295692,"lng":69.218247,"description":null,"raw":"Ташкент, улица Мукими, 166","metro":null,"metro_stations":[],"id":"5906580"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T08:39:43+0300","created_at":"2024-02-13T08:39:43+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93119114","insider_interview":null,"url":"https://api.hh.ru/vacancies/93119114?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93119114","relations":[],"employer":{"id":"3927191","name":"Научно информационный центр новых технологий при ГНК РУз","url":"https://api.hh.ru/employers/3927191","alternate_url":"https://hh.ru/employer/3927191","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3927191","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Если вы , в том числе, студент по направлению IT или начинающий специалист, окончивший вуз, Вы можете принять участие в отборе...","responsibility":"Комплексная оценка будет проводиться в форме собеседования. Стажировка по направлениям Java-backend и Mobile разработчик (flutter). Участие в непосредственной работе..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"96","name":"Программист, разработчик"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"probation","name":"Стажировка"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92405436","premium":false,"name":"Хозработник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2","name":"Санкт-Петербург","url":"https://api.hh.ru/areas/2"},"salary":{"from":65000,"to":70000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Санкт-Петербург","street":"Бармалеева улица","building":"11","lat":59.964485,"lng":30.306571,"description":null,"raw":"Санкт-Петербург, Бармалеева улица, 11","metro":null,"metro_stations":[],"id":"11151437"},"response_url":null,"sort_point_distance":null,"published_at":"2024-01-30T12:59:55+0300","created_at":"2024-01-30T12:59:55+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92405436","insider_interview":null,"url":"https://api.hh.ru/vacancies/92405436?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92405436","relations":[],"employer":{"id":"3474160","name":"Нордстрой","url":"https://api.hh.ru/employers/3474160","alternate_url":"https://hh.ru/employer/3474160","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3474160","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":null,"responsibility":"Cезонныe pаботы: убоpкa cнега, лиcтьев, кoшeниe травы, мытьe дoрoжек. Убoрка мусоpа. Прoтиpание пыли, уборка в бapбекю, в бecедке. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"32","name":"Дворник"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"87122346","premium":false,"name":"Продавец-консультант","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":70000,"to":110000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T11:00:11+0300","created_at":"2024-02-20T11:00:11+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=87122346","branding":{"type":"MAKEUP","tariff":null},"show_logo_in_search":true,"insider_interview":null,"url":"https://api.hh.ru/vacancies/87122346?host=hh.ru","alternate_url":"https://hh.ru/vacancy/87122346","relations":[],"employer":{"id":"2524051","name":"Магазины Ароматный Мир формата food & wine","url":"https://api.hh.ru/employers/2524051","alternate_url":"https://hh.ru/employer/2524051","logo_urls":{"90":"https://hhcdn.ru/employer-logo/3752459.png","240":"https://hhcdn.ru/employer-logo/3752460.png","original":"https://hhcdn.ru/employer-logo-original/827894.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2524051","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт работы не требуется, мы всему научим! Опыт работы в сетевых розничных магазинах приветствуется.","responsibility":"Консультирование покупателей по ассортименту в магазине. Работа на современной и простой кассе. Выкладка продукции, оформление торгового зала рекламными материалами. "},"contacts":null,"schedule":{"id":"shift","name":"Сменный график"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"97","name":"Продавец-консультант, продавец-кассир"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"77069438","premium":false,"name":"Менеджер по туризму","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"160","name":"Алматы","url":"https://api.hh.ru/areas/160"},"salary":{"from":180000,"to":200000,"currency":"KZT","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-02T05:38:18+0300","created_at":"2024-02-02T05:38:18+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=77069438","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/77069438?host=hh.ru","alternate_url":"https://hh.ru/vacancy/77069438","relations":[],"employer":{"id":"686727","name":"NurAi & Co","url":"https://api.hh.ru/employers/686727","alternate_url":"https://hh.ru/employer/686727","logo_urls":{"240":"https://hhcdn.ru/employer-logo/1107573.png","90":"https://hhcdn.ru/employer-logo/1107572.png","original":"https://hhcdn.ru/employer-logo-original/152128.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=686727","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"умение урегулировать форс-мажорные ситуации. - умение работать в системе Битрикс для ведения процесса бронирования. Требования: - опыт работы в туризме обязателен. - ","responsibility":"консультирование клиентов по туристическим продуктам в офисе и по телефону. - обработка входящих заявок и ведение диалога с туристами. - "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92210019","premium":false,"name":"Junior back-end developer","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":4000000,"to":8000000,"currency":"UZS","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T14:24:55+0300","created_at":"2024-01-25T14:24:55+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92210019","insider_interview":null,"url":"https://api.hh.ru/vacancies/92210019?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92210019","relations":[],"employer":{"id":"9035038","name":"OOO UZGPS","url":"https://api.hh.ru/employers/9035038","alternate_url":"https://hh.ru/employer/9035038","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9035038","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Высшее профильное образование. Свободное владение русским и узбекским языками. Java Core. Spring/Spring Boot. Знание ООП и структуры данных. ","responsibility":"Разрабатывать новые и поддерживать существующие продукты компании. Интегрировать сервисы и API. Написание микросервисов. Интеграции с внешними сервисами по REST, WebSocket. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"96","name":"Программист, разработчик"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93523045","premium":false,"name":"Менеджер по сопровождению закупок (контрольно-измерительное оборудование)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":90000,"to":null,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":null,"street":null,"building":null,"lat":null,"lng":null,"description":null,"raw":null,"metro":{"station_name":"Полежаевская","line_name":"Таганско-Краснопресненская","station_id":"7.114","line_id":"7","lat":55.777201,"lng":37.517895},"metro_stations":[{"station_name":"Полежаевская","line_name":"Таганско-Краснопресненская","station_id":"7.114","line_id":"7","lat":55.777201,"lng":37.517895},{"station_name":"Хорошево","line_name":"МЦК","station_id":"95.539","line_id":"95","lat":55.777222,"lng":37.507222},{"station_name":"Хорошевская","line_name":"Большая кольцевая линия","station_id":"97.601","line_id":"97","lat":55.77643,"lng":37.51981}],"id":"14977439"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T11:07:12+0300","created_at":"2024-02-20T11:07:12+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93523045","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93523045?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93523045","relations":[],"employer":{"id":"827187","name":"BY business group","url":"https://api.hh.ru/employers/827187","alternate_url":"https://hh.ru/employer/827187","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/942457.jpg","240":"https://hhcdn.ru/employer-logo/4210365.jpeg","90":"https://hhcdn.ru/employer-logo/4210364.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=827187","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Высшее или средне-специальное образование. Опыт работы на позиции менеджер по закупкам от 3 лет. Знание программы 1С (Управление...","responsibility":"Получать и обрабатывать заявки. Обеспечивать своевременные поставки ТМЦ Заказчикам (закупка оборудования КИПиА и комплектующих). Контролировать поставки и своевременное выполнение обязанностей..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"66","name":"Менеджер по закупкам"}],"accept_incomplete_resumes":true,"experience":{"id":"between3And6","name":"От 3 до 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93514566","premium":false,"name":"Водитель-помощник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":300000,"to":null,"currency":"KZT","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Астана","street":"улица Сауран","building":"3","lat":51.125657,"lng":71.421976,"description":null,"raw":"Астана, улица Сауран, 3","metro":null,"metro_stations":[],"id":"816768"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T09:52:02+0300","created_at":"2024-02-20T09:52:02+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93514566","insider_interview":null,"url":"https://api.hh.ru/vacancies/93514566?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93514566","relations":[],"employer":{"id":"2842834","name":"SNK CONSULT GROUP","url":"https://api.hh.ru/employers/2842834","alternate_url":"https://hh.ru/employer/2842834","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2842834","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Знание английского языка (B2). Хорошие знание города ПДД. Готовность к командировкам, в том числе за границу. Пунктуальность. ","responsibility":"Мелкосрочный ремонт авто."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"21","name":"Водитель"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93254580","premium":false,"name":"Машинист буровой установки RU-75","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"102","name":"Хабаровск","url":"https://api.hh.ru/areas/102"},"salary":{"from":228000,"to":228000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Хабаровск","street":"улица Истомина","building":"51А","lat":48.474997,"lng":135.058846,"description":null,"raw":"Хабаровск, улица Истомина, 51А","metro":null,"metro_stations":[],"id":"4898993"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-15T08:00:54+0300","created_at":"2024-02-15T08:00:54+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93254580","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93254580?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93254580","relations":[],"employer":{"id":"4987434","name":"Охотская Горно-Геологическая Компания","url":"https://api.hh.ru/employers/4987434","alternate_url":"https://hh.ru/employer/4987434","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/944456.jpg","240":"https://hhcdn.ru/employer-logo/4218361.jpeg","90":"https://hhcdn.ru/employer-logo/4218360.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=4987434","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Квалификационное удостоверение машиниста буровой установки 5 разряда. Опыт работы на буровой установки RU-75., LM-75. Проведение текущих аварийных и...","responsibility":"Бурение из буровых камер. Бурение согласно ГТН, умение подобрать породоразрушающий инструмент, монтаж на устье скважины."},"contacts":null,"schedule":{"id":"flyInFlyOut","name":"Вахтовый метод"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"63","name":"Машинист"}],"accept_incomplete_resumes":true,"experience":{"id":"between3And6","name":"От 3 до 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93545071","premium":false,"name":"Семейный водитель","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":120000,"to":120000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T14:19:36+0300","created_at":"2024-02-20T14:19:36+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93545071","insider_interview":null,"url":"https://api.hh.ru/vacancies/93545071?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93545071","relations":[],"employer":{"id":"2021156","name":"ТТО АМИК","url":"https://api.hh.ru/employers/2021156","alternate_url":"https://hh.ru/employer/2021156","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2021156","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"опыт работы профессиональным водителем от 10 лет, семейным водителем - от 5 лет. - наличие рекомендательных писем (обязательно). - спокойное,комфортное и безопасное...","responsibility":"работа в качестве семейного водителя. - подача автомобиля по указанному месту в обозначенное время. - планирование оптимального маршрута движения. - выполнение поручений профессионального..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"21","name":"Водитель"}],"accept_incomplete_resumes":true,"experience":{"id":"moreThan6","name":"Более 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93161709","premium":false,"name":"Менеджер по работе с клиентами (МЕРКАТОР)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"88","name":"Казань","url":"https://api.hh.ru/areas/88"},"salary":{"from":100000,"to":null,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Казань","street":"Приволжский район, жилой массив Отары, Дорожная улица","building":"1к10","lat":55.724135,"lng":49.098078,"description":null,"raw":"Казань, Приволжский район, жилой массив Отары, Дорожная улица, 1к10","metro":null,"metro_stations":[],"id":"15161689"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T17:06:04+0300","created_at":"2024-02-13T17:06:04+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93161709","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93161709?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93161709","relations":[],"employer":{"id":"1060821","name":"Рост Развитие Решение","url":"https://api.hh.ru/employers/1060821","alternate_url":"https://hh.ru/employer/1060821","logo_urls":{"90":"https://hhcdn.ru/employer-logo/874868.jpeg","240":"https://hhcdn.ru/employer-logo/874869.jpeg","original":"https://hhcdn.ru/employer-logo-original/85446.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1060821","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт в продажах или с клиентами. Грамотная речь. Активность. Коммуникабельность.","responsibility":"Работа с клиентами. Контроль остатков инструмента на складе. Работа с дебиторской задолженностью. Отчетность в установленной форме (1С, Битрикс 24)."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null}],"found":1438900,"pages":100,"page":0,"per_page":20,"clusters":null,"arguments":null,"fixes":null,"suggests":null,"alternate_url":"https://hh.ru/search/vacancy?enable_snippets=true"}
+[
+    {
+        "text": "Программист-разработчик",
+        "url": "https://hh.ru/vacancy/98109385",
+        "requirement": null,
+        "responsibility": null,
+        "salary": 1000000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Исполнительный директор",
+        "url": "https://hh.ru/vacancy/98361727",
+        "requirement": "Опыт работы на руководящих должностях в сфере управления бизнесом. Сильные коммуникативные и организационные навыки. Способность принимать стратегические решения и работать...",
+        "responsibility": "Осуществление руководства повседневной финансово-хозяйственной деятельностью организации. Организация работы и эффективного взаимодействия всех структурных подразделений, принятие мер по повышению эффективности...",
+        "salary": 500000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Главный конструктор",
+        "url": "https://hh.ru/vacancy/98265792",
+        "requirement": "Образование высшее техническое. Владение программами: САМ 350, PCAD, Altium Designer, 1С:ERP. Знание технологий производства печатных плат и свойств...",
+        "responsibility": "Осуществление запуска печатных плат в производство, решение технических вопросов, поступающих от отечественных и зарубежных производителей. Работа с файлами Gerber и...",
+        "salary": 300000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Дегустатор электронных сигарет",
+        "url": "https://hh.ru/vacancy/97244650",
+        "requirement": "4. Разбираться в электронных сигаретах.",
+        "responsibility": "1. Оценивать тестовые варианты электронных сигарет(можно ли запускать продукцию в продажу магазинов Escobar). 2. Писать отчет об вкусе, насыщенности...",
+        "salary": 250000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Руководитель отдела контент маркетинга и PR",
+        "url": "https://hh.ru/vacancy/98160928",
+        "requirement": "Аналогичный опыт в IT компании (в идеале с направлениями B2B). Свободный английский, позволяющий вести переговоры с международными партнерами...",
+        "responsibility": "Управление контент планом и PR стратегией компании. Работа со СМИ и лидерами мнений. Разработка инфоповодов и поддержание коммуникации с журналистами...",
+        "salary": 250000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Менеджер по тендерам",
+        "url": "https://hh.ru/vacancy/98353595",
+        "requirement": "Опыт работы в тендерных закупках от продающей стороны. Опыт работы в аналогичной должности от 2-х лет. Умение самостоятельно просчитывать...",
+        "responsibility": "Поиск тендеров на закупку нефтепродуктов, еженедельный мониторинг тендеров с помощью программных комплексов («Контур-Закупки», «Селдон» и т.п.). ",
+        "salary": 250000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Бортпроводник/бортпроводница",
+        "url": "https://hh.ru/vacancy/98080370",
+        "requirement": "Опыт работы в сфере услуг (гостиницы, рестораны, сервис). Позитивное отношение и умение общаться с людьми из разных культур. ",
+        "responsibility": "Предоставление услуг на борту самолёта, обеспечение безопасности пассажиров. Проведение предполетной подготовки и контроль за соблюдением правил безопасности. Контроль за работой...",
+        "salary": 240000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Генеральный / Исполнительный директор",
+        "url": "https://hh.ru/vacancy/98328769",
+        "requirement": "Высшее образование -в области высшего менеджмента и маркетинга. Сильные управленческие компетенции, лидерские качества! Опыт руководства компанией и развития процессов: активных...",
+        "responsibility": "Управление коммерческим и производственным подразделениями: отделы продаж, отдел закупок, отдел маркетинга, транспортный отдел, производство и склад ( 100 сотрудников). ",
+        "salary": 200000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Главный механик",
+        "url": "https://hh.ru/vacancy/98358125",
+        "requirement": "Высшее образование - бакалавриат. Не менее двух лет в области ТО и ремонта АТС. Знание постановлений / распоряжений, приказов вышестоящих органов, касающихся...",
+        "responsibility": "Осуществлять руководство деятельностью отдела главного механика. Осуществлять разработку мероприятий, направленных на оптимизацию и повышение эффективности ремонта техники. Организовывать и осуществлять...",
+        "salary": 200000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Директор филиала",
+        "url": "https://hh.ru/vacancy/98207532",
+        "requirement": "Высшее образование (инженерное или экономическое). Дополнительное профессиональное образование будет являться преимуществом. Опыт работы в руководящей должности не менее 5 лет. ",
+        "responsibility": "Организация финансово-хозяйственной деятельности филиала. Операционное и финансовое планирование. Обеспечение выполнения финансовых показателей. Обеспечение филиала квалифицированными кадрами. Координация работы сотрудников...",
+        "salary": 200000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Заместитель директора",
+        "url": "https://hh.ru/vacancy/98219589",
+        "requirement": "Высшее образование (техническое). Лидерские качества, высокая организованность и работоспособность, развитые коммуникативные навыки, осознанность, ответственность. Обязателен опыт аналогичной работы техническим директором...",
+        "responsibility": "Обеспечение и контроль ритмичной работы подразделения площадки Назия, волховское шоссе д.1(Катера, Корабли)Численность сотрудников около 900 ч. ",
+        "salary": 200000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Заместитель главного бухгалтера/главный бухгалтер",
+        "url": "https://hh.ru/vacancy/98342578",
+        "requirement": "Опыт работы в качестве зам. главного бухгалтера или главного бухгалтера не менее 3-х лет (ПРОИЗВОДСТВО). Обязательный опыт ведения бухгалтерского...",
+        "responsibility": "Руководство бухгалтерией из 5 человек. Работа в программе 1С:Бухгалтерия 8.3 КОРП. Полное ведение всех участков БУ /НУ...",
+        "salary": 180000,
+        "currency": "RUR"
+    },
+    {
+        "text": "QA Engineer Manual",
+        "url": "https://hh.ru/vacancy/98179158",
+        "requirement": "Опыт в сфере тестирования ПО от 3-х лет. Опыт работы с баг-трекерами (JIRA). Опыт тестирования клиент-серверных систем...",
+        "responsibility": "Разработка планов тестирования. Проведение всех видов функционального тестирования (black box, white box). Ручное тестирование интерфейсов. Тестирование API (Postman). ",
+        "salary": 160000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Шеф-повар",
+        "url": "https://hh.ru/vacancy/98390753",
+        "requirement": "Опыт работы шеф-поваром от 3-х лет. Работа в ресторанах с большой проходимостью. Грамотная речь , презентабельный вид. ",
+        "responsibility": "Формирование и обновление меню и сезонных предложений совместно с Бренд-шефом. Подбор и обучение персонала. Контроль чистоты и сан норм. ",
+        "salary": 150000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Руководитель юридического отдела",
+        "url": "https://hh.ru/vacancy/98344062",
+        "requirement": "Опыт работы в аналогичной должности - от 3-х лет в компании, осуществляющей деятельность в области общественного питания. Высшее профессиональное образование...",
+        "responsibility": "Полное юридическое сопровождение деятельности Компании. Руководство юридическим отделом (3 чел), сопровождение проектной работы. Разработка типовых договоров, правовая экспертиза договоров. ",
+        "salary": 150000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Старший специалист складского учета/Senior Warehouse specialist",
+        "url": "https://hh.ru/vacancy/98298044",
+        "requirement": "Высшее образование. Релевантный опыт работы в сфере логистики от 2-х лет. Владение английским языком на уровне Intermediate и выше. ",
+        "responsibility": "Владелец системы Управления складскими инвенторями (IM) и Magics toolkit. Лидер по внутреннему контролю и системам качества в отделе логистики , в...",
+        "salary": 145000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Живописец-бутафор (маляр)",
+        "url": "https://hh.ru/vacancy/98356023",
+        "requirement": null,
+        "responsibility": "ГК Инвест Персонал – аутсорсинговая / аутстаффинговая компания, способная решать проблемы клиента по предоставлению заемного труда работников в кратчайшие сроки благодаря уникальному...",
+        "salary": 126000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Аналитик по транспорту",
+        "url": "https://hh.ru/vacancy/97818921",
+        "requirement": "Высшее образование (техническое). Опыт работы в сфере ремонта автотранспорта не менее 2 лет. Опыт договорной работы с поставщиками запчастей и...",
+        "responsibility": "Сбор аналитических и статистических данных показателей эффективности. Расчет план-факторного анализа выполнения целевых финансовых показателей. Контроль выполнения целевых показателей. ",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Водитель персональный",
+        "url": "https://hh.ru/vacancy/98371445",
+        "requirement": "Опыт работы персональным, семейным водителем, рекомендации. Доброжелательность. Воспитанность. Наличие личного автомобиля.",
+        "responsibility": "Сопровождение двух школьниц в школу на автомобиле заказчика из Сестрорецка на Комендантский, середина дня свободна. Техобслуживание автомобиля.",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Водитель",
+        "url": "https://hh.ru/vacancy/98344164",
+        "requirement": "Обязательно категория В. Навык вождения разнообразных автомобилей. Опыт работы персональным водителем. Стаж вождения от 3 лет права категории В. ",
+        "responsibility": "Выполнение поручений работодателя. Содержание авто в чистоте и поддержание порядка в салоне. Контроль за техническим состоянием автомобилей.",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Представитель банка",
+        "url": "https://hh.ru/vacancy/96986898",
+        "requirement": "Готовность к разъездному формату оказания услуг. Умение находить общий язык с клиентами.",
+        "responsibility": "Проводить встречи с клиентами для передачи банковских карт. Оформление выдачи карт без бумаг, online, через приложение. Консультировать по продуктам и...",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Перегонщик автомобилей",
+        "url": "https://hh.ru/vacancy/94079007",
+        "requirement": "Водительское удостоверение категории «В» с опытом вождения.",
+        "responsibility": "+20% к зарплате, если для машины требуются доп услуги (заправка, химчистка, подкачка).  никакой головной боли с поиском и содержанием...",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Личный водитель-охранник",
+        "url": "https://hh.ru/vacancy/98248124",
+        "requirement": "О\\р на аналогичной должности не менее 10 лет, водительский стаж не менее 15 лет (авто представительского класса). ",
+        "responsibility": "Работа с Заказчиком: перемещение на авто представительского класса и сопровождение, работа с травматическим оружием. Контроль технического состояния и обслуживание автомобиля.",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Руководитель группы ЛСУ (Начальник склада)",
+        "url": "https://hh.ru/vacancy/98369499",
+        "requirement": "Навыки работы с поставщиками, поставщиками транспортных услуг. Знание компьютера на продвинутом уровне (MS Office, 1C). Наличие авто для передвижения.",
+        "responsibility": "Управление функционированием склада с учетом потребностей в оптимизации процессов по хранению, приему и транспортировке товарных запасов в соответствии с регламентом...",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Frontend React Developer (Junior+)",
+        "url": "https://hh.ru/vacancy/98241864",
+        "requirement": "Выстраивать навигацию, чтобы пользователи не терялись в веб-формах, как в трех соснах. Честным трудом разрабатывал Frontend не меньше полугода. ",
+        "responsibility": "Создавать интерфейс, который будут обсуждать в твиттере и вносить в учебники по разработке. — Отвечать за рамсы с дизайнером и бэком.",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Frontend Developer (React)",
+        "url": "https://hh.ru/vacancy/98332781",
+        "requirement": "Имел опыт работы с JavaScript/TypeScript от 2 лет. Имел опыт работы с React от 2 лет. Имел опыт работы...",
+        "responsibility": "Участвовать в разработке продуктов компании на React. Тесно взаимодействовать с командой Backend (Python). Заниматься разработкой и интеграциями фронтенда по спецификации. ",
+        "salary": 120000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Водитель категории В на автомобиль компании",
+        "url": "https://hh.ru/vacancy/98350397",
+        "requirement": "Релевантный опыт работы водителем от 5 лет. Права категории B. Личные качества: аккуратность, ответственность, доброжелательность, вежливость.",
+        "responsibility": "Выполнение поручений работодателя. Своевременная подача автомобиля к месту назначения. Обеспечение безопасной и комфортной перевозки пассажиров до места назначения. ",
+        "salary": 110000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Фронтенд разработчик (frontend developer)",
+        "url": "https://hh.ru/vacancy/98346653",
+        "requirement": "Требования: опыт работы с js от 2х лет; опыт работы с vue 2/3, typescript, знание алгоритмов на базовом...",
+        "responsibility": "На фронте мы используем typescript, vue 3, js. Тестируем с помощью jest, vitest. Собираем с помощью webpack, vite. ",
+        "salary": 110000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Помощник директора филиала по общим вопросам",
+        "url": "https://hh.ru/vacancy/98315679",
+        "requirement": "Высшее профессиональное (желательно, техническое) образование. ГОТОВНОСТЬ ОФОРМИТЬ ДОПУСК К РАБОТЕ СО СВЕДЕНИЯМИ, СОСТАВЛЯЮЩИМИ ГОСУДАРСТВЕННУЮ ТАЙНУ, или его наличие. ",
+        "responsibility": "Административно-хозяйственная деятельность (помещения и прилегающая территория). Благоустройство прилегающей территории. Клининг. Организация рабочих мест и переездов. Мобильная связь. ",
+        "salary": 105000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Специалист по замене батарей (на самокате)",
+        "url": "https://hh.ru/vacancy/96718741",
+        "requirement": "Хорошее знание города. Собственный телефон на Android.",
+        "responsibility": "Получение заряженных аккумуляторов и сдача разряженных аккумуляторов на склад. Выезд в закрепленную зону. Замена аккумуляторных батарей на самокатах. ",
+        "salary": 101250,
+        "currency": "RUR"
+    },
+    {
+        "text": "Помощник в загородный дом",
+        "url": "https://hh.ru/vacancy/98313671",
+        "requirement": "Знание русского языка. Умение делать все быстро и качественно. Опыт работы от 2 лет.",
+        "responsibility": "Уборка территории. Кормить и гулять с собакой,после прогулки вытирать лапы. Баня - растопка и уборка.. Поддержка хорошего технического состояния дома...",
+        "salary": 100000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Дизайнер (Алкогольный завод)",
+        "url": "https://hh.ru/vacancy/98385929",
+        "requirement": "Опыт работы дизайнером от 3-х лет, опыт в FMCG-компании, будет преимуществом. Высшее образование (желательно профильное). Умеете систематизировать и...",
+        "responsibility": "Разработка креативной концепции продуктов(пиво, коктейли, вода и т.д). Работа с айдентикой и фирменным стилем брендов компании. ",
+        "salary": 100000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Менеджер ресторана",
+        "url": "https://hh.ru/vacancy/98333416",
+        "requirement": "Опыт работы менеджером ресторана от 1 года. Навыки управления персоналом. Отличное знание ПК и Iiko. Высокая степень самоорганизации. ",
+        "responsibility": "Грамотное управление персоналом на смене. Контроль соблюдения стандартов обслуживания. Формирование и контроль графиков работы сотрудников. Решение конфликтных ситуаций. ",
+        "salary": 100000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Менеджер по продаже запасных частей для спецтехники",
+        "url": "https://hh.ru/vacancy/97136376",
+        "requirement": "Общая техническая грамотность. Опыт продаж запасных частей к спецтехнике или грузовых запчастей. Опыт общения с клиентами, проведения переговоров, личных и...",
+        "responsibility": "Монтаж надстроек и пуско-наладочные работы. Ремонт и обслуживание спецтехники, в т.ч. восстановление кранов. Поставка запчастей и комплектующих. ",
+        "salary": 100000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Администратор выставки одежды",
+        "url": "https://hh.ru/vacancy/96760625",
+        "requirement": null,
+        "responsibility": "Консультирование клиентов по товару и продажи на выставке.",
+        "salary": 90000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Администратор в магазин одежды",
+        "url": "https://hh.ru/vacancy/95842574",
+        "requirement": null,
+        "responsibility": "Консультирование клиентов по товару и продажи на выставке.",
+        "salary": 90000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Администратор магазина",
+        "url": "https://hh.ru/vacancy/96758633",
+        "requirement": null,
+        "responsibility": "Консультирование клиентов по товару и продажи на выставке.",
+        "salary": 90000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Помощник по хозяйству",
+        "url": "https://hh.ru/vacancy/98210667",
+        "requirement": null,
+        "responsibility": null,
+        "salary": 90000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Бухгалтер на первичные документы",
+        "url": "https://hh.ru/vacancy/96163475",
+        "requirement": "Высшее образование. Знание 1С (желательно 1С ERP), Word, Excel, знание делопроизводства. Опыт работы с актами сверок (60/62...",
+        "responsibility": "Проверка счетов 60, 62, 76. Отражение в первичных документах бухгалтерского учета ДДС. Контроль движения денежных средств на банковских счетах организации. ",
+        "salary": 90000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Специалист по кадровому делопроизводству",
+        "url": "https://hh.ru/vacancy/98318717",
+        "requirement": "Высшее профессиональное образование. Дополнительное профильное образование (повышение квалификации) в области КДП - желательно. Опыт самостоятельного ведения всех участков кадрового учёта от...",
+        "responsibility": "Ведение КДП в полном объеме: Движение персонала: Приемы, переводы, увольнения. Ведение штатного расписания. Сдача отчетности в СФР по кадровым мероприятиям. ",
+        "salary": 90000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Агент по наземному обслуживанию",
+        "url": "https://hh.ru/vacancy/97610203",
+        "requirement": "С владением английского языка на уровне не ниже Pre-Intermediate. С лидерскими качествами. С мотивацией на результат, желанием учиться и...",
+        "responsibility": "Организация и выполнение работ по наземному обслуживанию воздушных судов. Прием/выпуск воздушного судна. Управление телескопическими трапами. Контроль загрузки воздушного судна. ",
+        "salary": 86680,
+        "currency": "RUR"
+    },
+    {
+        "text": "Личный водитель",
+        "url": "https://hh.ru/vacancy/98256027",
+        "requirement": "Наличие водительского удостоверения (категория В). - Опыт вождения по категории В от 5 лет. - Опыт работы личным водителем обязателен (наличие рекомендаций). - ",
+        "responsibility": "Обеспечение исправного технического состояния и чистоты автомобиля. - Заполнение путевой документации. - Обеспечение комфортного и безаварийного вождения. - Выполнение личных поручений руководителя. - ",
+        "salary": 86000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Личный водитель",
+        "url": "https://hh.ru/vacancy/98362644",
+        "requirement": "Стаж вождения от 10 лет, наличие прав категории В. Опыт работы на аналогичной должности от 6 лет . Образование не ниже...",
+        "responsibility": "Обеспечение безопасности во время поездок. Своевременная подача автомобиля по требованию. Поддержание чистоты в салоне автомобиля. Контроль технической исправности автомобиля. ",
+        "salary": 80000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Оператор производства",
+        "url": "https://hh.ru/vacancy/95046480",
+        "requirement": "Образование, опыт, квалификация: Образование: среднее или средне-профессиональное. Опыт работы на производственном предприятии. Дисциплинированность, нацеленность на результат, энергичность, коммуникабельность.",
+        "responsibility": "Цель: Качественное и своевременное выполнение предписанного порядка работ на закрепленном участке производственного процесса, с соблюдением норм и правил технологического процесса...",
+        "salary": 80000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Диспетчер",
+        "url": "https://hh.ru/vacancy/98346687",
+        "requirement": "Хорошее знание ПК: 1С, Microsoft office. Опыт работы в транспортных предприятиях. Опыт работы с путевой документацией обязателен.",
+        "responsibility": "Планирование, обеспечение и контроль выполнения работ по механизированной уборке дорог. Подготовка документации по выпуску техники на линию. Организация своевременного выпуска...",
+        "salary": 80000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Повар-кассир",
+        "url": "https://hh.ru/vacancy/87160001",
+        "requirement": "Специальное образование и опыт работы не требуются.",
+        "responsibility": "Хочешь научиться создавать авторские блюда и воссоздавать атмосферу старинной русской кухни, но в авторской обработке? Приготовление авторских блюд русской кухни...",
+        "salary": 80000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Лаборант",
+        "url": "https://hh.ru/vacancy/98353935",
+        "requirement": "Высшее образование. Опыт работы от 1 года в нефтегазовой отрасли. Коммуникабельность, желание работать в команде, исполнительность, мобильность, способность работать в...",
+        "responsibility": "Выполнять лабораторные анализы, испытания, измерения и другие виды работ при проведении исследований и разработок. Участвовать в сборе и обработке материалов...",
+        "salary": 80000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Бариста",
+        "url": "https://hh.ru/vacancy/84835116",
+        "requirement": "Без опыта работы - всему научим. Любовь к кофе. Доброжелательность, коммуникабельность.",
+        "responsibility": "Кэшбек на продукцию Компании – 15%. Подготовка кондитерской к открытию/закрытию. Общение с гостями. Продажа фирменных кондитерских изделий. Приготовление чая, кофе. ",
+        "salary": 79300,
+        "currency": "RUR"
+    },
+    {
+        "text": "Оператор видеонаблюдения",
+        "url": "https://hh.ru/vacancy/98215499",
+        "requirement": "Опыт работы с системами видеонаблюдения (желателен). Внимание к деталям и способность концентрироваться на монотонной работе. Отличные навыки работы с компьютером...",
+        "responsibility": "Осуществлять видеонаблюдение и контроль за внешней и внутренней территорией объекта с целью предотвращения противоправных действий. Незамедлительное оповещение ответственных лиц, в...",
+        "salary": 75000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Ночной водитель в Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/98359403",
+        "requirement": "Водительский стаж не менее 7 лет. Опыт работы водителем. Погрузка-разгрузка печатной продукции (пачки до 10 кг).",
+        "responsibility": "Работа ночным водителем: развозка печатной продукции по городу.",
+        "salary": 73250,
+        "currency": "RUR"
+    },
+    {
+        "text": "Секретарь учебной части",
+        "url": "https://hh.ru/vacancy/98375615",
+        "requirement": "Среднее профессиональное образование (программы подготовки специалистов среднего звена) в области делопроизводства, дополнительное профессиональное образование в данной области. Грамотная устная и...",
+        "responsibility": "Оформление личных дел обучающихся, ведение их в течение периода обучения и подготовка их к сдаче в архив. Обеспечение выдачи документов...",
+        "salary": 70000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Помощник ритуального агента",
+        "url": "https://hh.ru/vacancy/96591469",
+        "requirement": "Умение считать в уме. Умение брать на себя ответственность. Умение находить и использовать информацию в разных источниках. Умение расставлять приоритеты.",
+        "responsibility": "Прямые продажи в офисе и на выезде. Организация похорон. Консультирование клиентов по ассортименту и техническим параметрам товара. Взаимодействие с профильными...",
+        "salary": 70000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Полицейский (МВД РФ, Специальный полк)",
+        "url": "https://hh.ru/vacancy/98046193",
+        "requirement": "годные по состоянию здоровья. -имеющие образование не ниже среднего. -право выхода на пенсию после 20 лет службы.",
+        "responsibility": "Специaльный полк пoлиции ГУ МВД Poссии пo г. Сaнкт-Пeтepбуpгу и Лeнинградскoй облacти. Oснoвнaя задача подpaзделeния: - oхрaнa обществeннoго пoрядка пpи...",
+        "salary": 70000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/98375964",
+        "requirement": "Стаж вождения по категориям \"В\" от 3 лет. - Образование не ниже средне-специального.",
+        "responsibility": "Работа водителем категории В (на всех объектах СПБ и Лен. области). - Перевозка работников на объекты (до 7 человек, без наличия...",
+        "salary": 60000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Грузчик-комплектовщик",
+        "url": "https://hh.ru/vacancy/94392707",
+        "requirement": "Готовность к физическим нагрузкам. Дисциплинированность, ответственность, аккуратность, внимательность.",
+        "responsibility": "Комплектация и сборка товара. Загрузка и разгрузка товаров. Участие в инвентаризациях.",
+        "salary": 60000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Контент-менеджер в автосервис",
+        "url": "https://hh.ru/vacancy/97556210",
+        "requirement": "Умение сделать красивое фото (работа с фотоаппаратом, фототехникой - желательна). Знания фото и видео редакторов (Adobe Photoshop/Lightroom, Adobe Premier, Final...",
+        "responsibility": "Написание технических постов. Съемка (фото, видео) процессов работы. Написание постов новостных, информационных, развлекательных. Работа в ВК, ТГ и Ютуб, Яндекс.бизнес...",
+        "salary": 60000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Организатор съемочных процессов",
+        "url": "https://hh.ru/vacancy/97111401",
+        "requirement": "Оперативность. Целеустремлённость (иногда нужно доставать нестандартные вещи за очень короткие сроки). Креативность мышления. Нестандартный подход к сьемочным процессам. Новые идеи. ",
+        "responsibility": "Подготовка конктент плана к съёмкам. Составление расписания съёмок. Организация площадки. Поиск и подбор реквизита для съёмок. Координация участников съёмки: фотографы...",
+        "salary": 60000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Водитель на производство",
+        "url": "https://hh.ru/vacancy/98312918",
+        "requirement": "Водительское удостоверение ( категория В). Опыт работы не менее 3-х лет водителем-экспедитором.",
+        "responsibility": null,
+        "salary": 60000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Дизайнер-иллюстратор / Графический дизайнер в IT кампанию",
+        "url": "https://hh.ru/vacancy/98377668",
+        "requirement": "с.т.и.л.ь] юный техник, техника молодежи, наив.",
+        "responsibility": "ч.т.о.] иконки, иллюстрации, ui элементы. [к.а.к.] вектор, растер. [г.д.е.] документация, программы, веб приложения, мотивация. «",
+        "salary": 60000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Сотрудник Пограничной службы ФСБ",
+        "url": "https://hh.ru/vacancy/97136205",
+        "requirement": "ТРЕБОВАНИЯ, ПРЕДЪЯВЛЯЕМЫЕ К КАНДИДАТУ. Должен предоставить копии документов всех близких родственников (к близким родственникам относятся только: мать, отец (родной), в...",
+        "responsibility": "В ХОДЕ ОТБОРА КАНДИДАТ: Проходит медицинское обследование. Проходит профессионально-физиологический отбор, в том числе детектор лжи. Сдаёт зачёт по физической...",
+        "salary": 55000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Иллюстратор",
+        "url": "https://hh.ru/vacancy/98341000",
+        "requirement": "Как нам кажется, вы должны уметь: Уверенно работать в Photoshop и Adobe Illustrator. Быть аккуратным и внимательным, с ноткой перфекциакнизма...",
+        "responsibility": "Картинкой передавать настроение и смыслы. При этом учитывать ТЗ и если оно не понятно, выяснить, что необходимо отразить в этой...",
+        "salary": 50000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Продавец-консультант товаров Premium-класса",
+        "url": "https://hh.ru/vacancy/98216250",
+        "requirement": "Можете делать много дел одновременно с легкостью. - И да, ваш опрятный вид и ухоженность будут преимуществом при выборе кандидатов.",
+        "responsibility": "У вас получается в сложных ситуациях находить решения.",
+        "salary": 50000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Звукорежиссёр",
+        "url": "https://hh.ru/vacancy/98189433",
+        "requirement": "Знание звукового оборудования, цифровых и аналоговых пультов. Знание видеопроекционного оборудования. Базовые знания в области электрических цепей, передачи видео и акустических...",
+        "responsibility": "Работа техником зала на мероприятии. Работа аудио и видеоинженером на мероприятии. Монтаж и демонтаж оборудования (оборудование звукоусиления , проекционное оборудование).",
+        "salary": 50000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Курьер",
+        "url": "https://hh.ru/vacancy/98354929",
+        "requirement": "Внимательность. Пунктуальность. Знание города. Активность.",
+        "responsibility": "Доставка заказов и документов из офиса по стоматологическим клиникам.",
+        "salary": 30000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Дизайнер",
+        "url": "https://hh.ru/vacancy/96966230",
+        "requirement": "Будет хорошо, если ты уже прошел(а) какие то курсы по дизайну, знаешь как работать в Figma (это будет основной...",
+        "responsibility": "Делать контент для соц. сетей (картинки). - Создавать дизайны для печатной продукции. - Помогать с остальными вопросами по дизайну.",
+        "salary": 15000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Стажёр 2D-художник персонажей",
+        "url": "https://hh.ru/vacancy/94473448",
+        "requirement": "Наличие портфолио. Любить своё дело. Высокий уровень самоорганизации.",
+        "responsibility": "Разработка концептов и скетчей. Детализированная 2D-прорисовка персонажей.",
+        "salary": 15000,
+        "currency": "RUR"
+    },
+    {
+        "text": "Модель в Китай",
+        "url": "https://hh.ru/vacancy/97738927",
+        "requirement": "На позицию идет отбор по фото. Рассмотрим любые типажи. Отсутствие лишнего веса. Знание языков необязательно. — Знание языков не требуется.",
+        "responsibility": "Задача создавать атмосферу в клубе, веселить компанию, наливать напитки, играть в настольные игры, способствовать повышению выручки клуба. — Интим, выходы с...",
+        "salary": 2000,
+        "currency": "USD"
+    },
+    {
+        "text": "Начальник службы безопасности",
+        "url": "https://hh.ru/vacancy/98386734",
+        "requirement": "Опыт работы на аналогичной должности от 2-х лет. Опыт взаимодействия с государственными органами. Знание систем безопасности (видеонаблюдение, охранная сигнализация...",
+        "responsibility": "Контроль за работой контроллеров. Выявление фактов хищения. Выявление фактов нарушения дисциплины. Проверка наличия сотрудников на объекте в соответствии с табелем...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Junior Python Backend Developer",
+        "url": "https://hh.ru/vacancy/92471522",
+        "requirement": "Уверенное знание python. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL...",
+        "responsibility": "Поддерживать и дополнять функционал CRM.",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Руководитель службы безопасности",
+        "url": "https://hh.ru/vacancy/98372385",
+        "requirement": "Высшее образование, приветствуется юридическое. Опыт работы руководителем в аналогичной должности от 3-х лет в торгово-производственных компаниях. ",
+        "responsibility": "Регулярный аудит и анализ действующих и планируемых работ/процессов на предмет потенциальных потерь (товар, деньги, люди, поставщики услуг, договора аренды). ",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Сборщик заказов",
+        "url": "https://hh.ru/vacancy/98206193",
+        "requirement": "Готовность к физическому труду.",
+        "responsibility": "Сбор заказов с помощью терминала сбора данных (ТСД). Отмотка кабельно-проводниковой продукции мелкого сечения. Проверка собранных заказов (количество, качество). ",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Руководитель подразделения по работе с персоналом",
+        "url": "https://hh.ru/vacancy/97407933",
+        "requirement": "Практический опыт работы на должности директора по персоналу/руководителя/hr-generalist от 2 лет в производственно-торговых компаниях, с численностью...",
+        "responsibility": "Ведение, контроль и курирование всех HR бизнес-процессов в вверенном подразделении (70% подбор). Самостоятельное закрытие сложных вакансий. Внедрение мероприятии, направленных...",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Руководитель группы безопасности",
+        "url": "https://hh.ru/vacancy/98353180",
+        "requirement": "Высшее образование. Опыт работы в сфере обеспечения безопасности не менее 5 (пяти) лет (служба в оперативных подразделениях правоохранительных органов приветствуется). ",
+        "responsibility": "Основная функция сотрудника: Организация работы группы безопасности. Обязанности сотрудника на указанной должности: Обеспечение внутриобъектового и пропускного режима на территории Обособленного...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Продавец в магазин одежды SELA moms & monsters(различные ТЦ, возможна подработка)",
+        "url": "https://hh.ru/vacancy/95972406",
+        "requirement": null,
+        "responsibility": "Помогать покупателям с выбором. Работать в примерочной и на кассе. Готовить товар к выкладке в торговый зал. Вместе с командой...",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Мойщик самолетов в аэропорт",
+        "url": "https://hh.ru/vacancy/97400252",
+        "requirement": "ОПЫТ НЕ ВАЖЕН - ОБУЧАЕМ.  Гaрaнтируем чеcтнoсть и выпoлнениe вcex уcлoвий!  OФОPMЛЕНИЕ И ЗAСЕЛEHИE B ДЕHЬ ОБPAЩЕHИЯ.",
+        "responsibility": null,
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Первый заместитель генерального директора",
+        "url": "https://hh.ru/vacancy/98239035",
+        "requirement": "Судостроение. Нефтедобыча. Транспортировка, переработка нефти. Энергетика. Металлургия. Машиностроение. Пищевая промышленность. Химическая промышленность. И другие направления. Обязательны подтвержденные оцифрованные достижения с...",
+        "responsibility": "Формирование и реализация стратегии развития бизнеса (рынок/отрасль/продукт/технология/место компании в отраслевом рынке). Поиск идей для эффективного развития...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Специалист по улучшению Поиска",
+        "url": "https://hh.ru/vacancy/96397861",
+        "requirement": "Уверенно владеете компьютером. Хорошо знаете русский язык, умеете анализировать и интерпретировать тексты. Умеете искать информацию в интернете и погружаться в...",
+        "responsibility": "Разметка — разделение ответов нейросети на утверждения. Проверка информации — анализ текстов в интернете и выбор лучших из них. Анализ найденной информации...",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Специалист службы безопасности",
+        "url": "https://hh.ru/vacancy/98346792",
+        "requirement": "Опыт работы на позиции специалиста по безопасности, от 3-х лет с аналогичным функционалом. Знание систем видеонаблюдения. Опыт управления подчиненными...",
+        "responsibility": "Организация системы контроля доступа. Организация видеонаблюдения. Организация и проведение мероприятий, направленных на предупреждение и выявление фактов, наносящих экономический ущерб интересам...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Финансовый директор",
+        "url": "https://hh.ru/vacancy/98382527",
+        "requirement": "Высшее финансово-экономическое образование. Опыт в постановке управленческого учета. Опыт работы в 1С. Инициативность, самостоятельность. Организованность, внимание к деталям. ",
+        "responsibility": "Повышение прибыли ГК (оптимизация расходов, налоговое планирование, точки роста в выручке предприятия). Формирование или контроль за формированием ежемесячной (ежеквартальной) управленческои...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Графический дизайнер (Презентации)",
+        "url": "https://hh.ru/vacancy/96750299",
+        "requirement": "Вы уверенно можете сказать, что вы владеете Figma, Adobe InDesign, Illustrator и Photoshop. Высокая концентрация внимания и усидчивость — это про...",
+        "responsibility": "Создание и вёрстка презентаций, пресс-релизов, гайдлайнов. Создание контента для социальных сетей. Верстка макетов и предпечатная подготовка (буклеты, листовки, визитки).",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": ".net разработчик",
+        "url": "https://hh.ru/vacancy/98352744",
+        "requirement": "Уверенное знание С#, .NET, MVC. Уверенное знание JS. Хорошее понимание принципов ООП. Иметь понимание паттернов проектирования систем. Понимание принципов SOLID. ",
+        "responsibility": "Проектная деятельность: полноценные внедрения и доработки продукта BPMSoft. - Разработка интеграций различных степеней сложности со сторонними системами. - Проектная поддержка / консультации и...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Личный помощник Генерального директора",
+        "url": "https://hh.ru/vacancy/98325748",
+        "requirement": "Свободный английский язык (устный и письменный). Знание порядка ведения служебного делопроизводства и правил оформления документов. Знания международной этики делового общения...",
+        "responsibility": "Планирование рабочего дня руководителя: организация встреч, прием посетителей, прием и распределение телефонных звонков. Организация документооборота (в том числе, в системе...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Главный специалист",
+        "url": "https://hh.ru/vacancy/96497148",
+        "requirement": "Высшее образование (специалитет или магистратура): экономика/финансы/математика/информатика. – Опыт работы от 3 лет (для главного специалиста – от 5 лет...",
+        "responsibility": "Главный специалист (отдел коммерч-ой экспертизы управленческих решений по сбыту товарной продукции). – Проведение экспертизы и оценка экономического эффекта от заключения...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Младший тестировщик чат-ботов",
+        "url": "https://hh.ru/vacancy/98369887",
+        "requirement": "Интерес к процессу тестирования и обеспечению качества. Желание развиваться в данной профессиональной области. Понимание основных этапов, принципов и типов тестирования...",
+        "responsibility": "Проводить ревью технического задания перед согласованием с заказчиком. Создавать тест-кейсы и описывать сценарии использования бота, подготавливать тестовые датасеты. ",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "People Care Manager",
+        "url": "https://hh.ru/vacancy/98207556",
+        "requirement": "Опыт работы на должности People Care Manager, HR или опыт работы с HR задачами. Знание английского на уровне intermediate и...",
+        "responsibility": "Ежедневная поддержка сотрудников по возникающим вопросам. Сопровождение и улучшение пакета бенефитов. Проведение 1:1 с сотрудниками компании. Работа с системой...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Продавец-консультант",
+        "url": "https://hh.ru/vacancy/97431637",
+        "requirement": "Имеете самозанятость или готовы её оформить. Имеете медицинскую книжку для работы с продуктами или готовы ее оформить, а мы возместим...",
+        "responsibility": "Поддерживать чистоту: кассовой зоны, предкассовой зоны, зоны касс самообслуживания, торгового зала. Обслуживание покупателей на кассе по стандартам компании. ",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Менеджер проектов/ассистент арт-директора",
+        "url": "https://hh.ru/vacancy/98270047",
+        "requirement": "Опыт работы от 1 года в управлении проектами отдела дизайна. Навык работы в программах Битрикс, 1С. Уверенный пользователь ПК...",
+        "responsibility": "Ведение операционной работы отдела дизайна (работа с документацией отдела, закупка оборудования, составление графика отпусков). Работа с подрядчиками (передача материалов, получение...",
+        "salary": 0,
+        "currency": "RUR"
+    },
+    {
+        "text": "Директор по безопасности",
+        "url": "https://hh.ru/vacancy/98250054",
+        "requirement": "Высшее образование. Опыт службы в структурах: ФСБ, ГРУ, ОБЭП, ФСО. Опыт работы в должности: руководитель аналитического центра/отдела, руководитель разведывательного...",
+        "responsibility": "Создание системы оперативного мониторинга для целей последующего анализа уязвимостей компании в части хищения ТМЦ, ДС, информационных данных. Анализ событий для...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Операционный директор",
+        "url": "https://hh.ru/vacancy/98247045",
+        "requirement": "Высшее образование (техническое или экономическое). Понимание и выстраивание бизнес-процессов, навыки работы с системами автоматизации бизнес-процессов. Знание действующего законодательства...",
+        "responsibility": "Основные задачи для данной роли: 1. Управление операционной деятельностью: планирование, координация и контроль операционных процессов компании (юридические, финансовые и кадровые...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Директор по производству",
+        "url": "https://hh.ru/vacancy/98345376",
+        "requirement": "Высшее техническое образование. Опыт работы директором по производству не менее 5-ти лет. Опыт запуска производства с \"нуля\" обязателен. ",
+        "responsibility": "Анализ производственного плана, качественные и количественные показатели. Техническая подготовка производства. Контроль производства продукции в соответствии с заказами. Анализ финансовой стороны...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Middle+ Frontend Developer (React)",
+        "url": "https://hh.ru/vacancy/97150840",
+        "requirement": "Опыт работы React, Typescript. Понимание принципов работы бандлеров и пакетных менеджеров. Опыт работы с Git. Опыт работы с REST API. ",
+        "responsibility": "Проектировать и разрабатывать высоконагруженное веб-приложение с использованием React + SSR. Проводить код ревью. Оптимизировать производительность. Покрывать код тестами.",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Директор по персоналу",
+        "url": "https://hh.ru/vacancy/98241325",
+        "requirement": "Опыт работы в области управления персоналом не менее 5 лет. Склонность к систематизации и автоматизации деятельности. Практические знания в области...",
+        "responsibility": "Постановка стратегических целей в управлении персоналом организации, обеспечение поддержки персоналом стратегических решений компании. Организация работы HR-отдела. Построение отсутствующих и...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Финансовый директор",
+        "url": "https://hh.ru/vacancy/98335193",
+        "requirement": "Высшее экономическое образование. Опыт работы на позиции финансового директора от 5 лет. Опыт построения эффективной системы управления денежными потоками. ",
+        "responsibility": "Организация и контроль финансового планирования компании. Организация привлечения заемного капитала, поддержание взаимодействия с кредитными учреждениями. Контроль деятельности бухгалтерии в части...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Помощник вице-президента",
+        "url": "https://hh.ru/vacancy/98257192",
+        "requirement": "Высшее образование. Знание документооборота, умение грамотно работать с документацией. Кандидату предстоит использовать в работе такие программы и системы, как: Word...",
+        "responsibility": "Ведение деловой переписки. Предоставление отчетности. Предоставление еженедельных задач перед встречами. Координирование внешних встреч с водителем вице-президента. Ежедневное подписание документов...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Директор департамента ИТ",
+        "url": "https://hh.ru/vacancy/98257670",
+        "requirement": "Высшее техническое образование. Опыт работы на аналогичной позиции не менее 3 лет. Знание ИТ инфраструктуры, баз данных, сетей и программного...",
+        "responsibility": "Управление департаментом ИТ. Департамент представлен командами разработки, технической поддержки, телекоммуникаций в количестве 17 сотрудников. Развитие и модернизация используемых в Компании...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Ведущий бухгалтер",
+        "url": "https://hh.ru/vacancy/98366139",
+        "requirement": "Высшее образование. Знание стандартов бухгалтерского учета и налогового законодательства. Опыт работы на участке учета основных средств и товарно-материальных ценностей. ",
+        "responsibility": "Учет ТМЦ (запчасти, топливо, спецодежда, оборудование, хозяйственный инвентарь, прочие материалы: перемещение, списание на производство в общепроизводственных и общехозяйственных целях). ",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Иллюстратор",
+        "url": "https://hh.ru/vacancy/97141167",
+        "requirement": "Умение работать с разными стилистиками, в частности в стиле комиксов. Умение работать в заданом стиле - правильно повторить стиль, который мы...",
+        "responsibility": "Создание растровых иллюстраций по техническому заданию - персонажей, фонов, предметов и т.д. Отрисовка комиксов.",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Ведущий Специалист по управлению материальными активами (ИТ/АХН)",
+        "url": "https://hh.ru/vacancy/96731029",
+        "requirement": "Опыт по учету ТМЦ. Опыт проведения инвентаризаций активов и сверок. Уверенный пользователь пакета Microsoft Office, свободно создавать Word файлы и...",
+        "responsibility": "Обеспечивать надлежащее документирование процесса управления ИТ-активами и активами АХН, актуализировать данные о перемещении. Участвовать в проведении инвентаризации, контрольной сверке...",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Массажист",
+        "url": "https://hh.ru/vacancy/96939262",
+        "requirement": "Желательно знание классического, спортивного и антицеллюлитного массажа. - Пунктуальность, любовь к людям и ответственный подход к работе.",
+        "responsibility": "Выполнение различных видов массажа по лицу и телу.",
+        "salary": 0,
+        "currency": "RUB"
+    },
+    {
+        "text": "Ассистент руководителя",
+        "url": "https://hh.ru/vacancy/97967653",
+        "requirement": "Знание английского языка. Знание Excel на уровне уверенного пользователя. Знание основ Делопроизводства. Умение работать с большим количеством информации.",
+        "responsibility": "Ведение делопроизводства в системе AMO CRM. Составление, учет, проверка, редактирование и регистрация входящей и исходящей документации. Проведение корректуры исходящих писем...",
+        "salary": 0,
+        "currency": "RUB"
+    }
+]
