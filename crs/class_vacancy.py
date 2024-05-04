@@ -1,4 +1,10 @@
 class Vacancy:
+    """
+    Класс Вакансий.
+    Создаёт экземпляры.
+    Сортирует
+    Выводит в нужном формате
+    """
     def __init__(self, text, url, requirement, responsibility, salary, currency):
         self.text = text
         self.url = url
@@ -9,9 +15,6 @@ class Vacancy:
 
     def __lt__(self, other):
         return self.salary < other.salary
-
-    # def to_json(self, text, url, requirement, responsibility, salary, currency):
-    #     return {text, url, requirement, responsibility, salary, currency}
 
     def __str__(self):
         return (f'\nНазвание: {self.text}\nТребования: {self.requirement}\nОбязанности: {self.responsibility}\n'

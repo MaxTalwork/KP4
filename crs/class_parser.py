@@ -3,11 +3,12 @@ from abc import ABC, abstractmethod
 
 
 class All(ABC):
+
     @abstractmethod
     def __init__(self, url):
         self.url = url
 
-    def fet_info(self, text):
+    def get_information(self, text):
         params = {}
         response = requests.get(url=self.url, params=params)
         return self.__conv_vac(response.json())

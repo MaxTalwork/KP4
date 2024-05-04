@@ -3,6 +3,7 @@ from crs.class_work_with_file import SaveInFile
 
 
 class SaveJson(SaveInFile):
+    """Класс для записи данных в файлы типа json"""
     def __init__(self, data_list):
         self.data_list = data_list
 
