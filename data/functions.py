@@ -56,8 +56,8 @@ def check_vacansy_dis(dic_list, user_req, true_list):
        :param true_list:
        :return:
        """
-    try:
-        for info in dic_list:
+    for info in dic_list:
+        try:
             if user_req in info['requirement']:
                 true_list.append(Vacancy(
                     text=info['text'],
@@ -67,5 +67,6 @@ def check_vacansy_dis(dic_list, user_req, true_list):
                     salary=info['salary'],
                     currency=info['currency']
                 ))
-    except TypeError:
-        pass
+        except TypeError:
+            pass
+

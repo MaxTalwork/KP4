@@ -9,7 +9,7 @@ class HH(All):
         self.__url = 'https://api.hh.ru/vacancies'
 
     def get_information(self, text):
-        params = {'query': text, 'area': 2, 'per_page': 100}
+        params = {'name': text, 'area': 2, 'per_page': 100}
         response = requests.get(url=self.__url, params=params)
         return self.__conv_vac(response.json())
 
