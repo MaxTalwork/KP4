@@ -1,8 +1,9 @@
 from abc import ABC, abstractmethod
 
 
-class SaveInFile(ABC):
+class WorkWithFile(ABC):
 
+    @classmethod
     @abstractmethod
-    def __init__(self, data_list):
-        self.data_list = data_list
+    def work_with_file(cls, *args, **kwargs):
+        return args

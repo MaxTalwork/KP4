@@ -1,13 +1,13 @@
 import json
-from crs.class_work_with_file import SaveInFile
+from crs.class_work_with_file import WorkWithFile
 
 
-class SaveJson(SaveInFile):
+class SaveJson(WorkWithFile):
     """Класс для записи данных в файлы типа json"""
     def __init__(self, data_list):
         self.data_list = data_list
 
-    def save_to_json(self):
+    def work_with_file(self):
         with open('vacancies.json', mode='w', encoding="utf-8") as f:
             items = []
             for vacancy in self.data_list:

@@ -5,12 +5,12 @@ from crs.class_vacancy import Vacancy
 
 class HH(All):
 
-    def __init__(self, url):
-        self.url = url
+    def __init__(self):
+        self.__url = 'https://api.hh.ru/vacancies'
 
     def get_information(self, text):
         params = {'query': text, 'area': 2, 'per_page': 100}
-        response = requests.get(url=self.url, params=params)
+        response = requests.get(url=self.__url, params=params)
         return self.__conv_vac(response.json())
 
     def __conv_vac(self, data) -> list[Vacancy]:
