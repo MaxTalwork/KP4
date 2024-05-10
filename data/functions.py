@@ -21,6 +21,7 @@ def load_products():  # pragma: no cover
     with open('vacancies.json', mode='r', encoding='utf-8') as f:
         return json.load(f)
 
+
 def check_vacansy_name(dic_list, user_req, true_list):
     """
     проверяет, есть ли искомое значение в выбраном значении словаря
