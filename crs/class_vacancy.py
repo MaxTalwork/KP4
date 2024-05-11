@@ -15,6 +15,9 @@ class Vacancy:
 
     def __lt__(self, other):
         return self.salary < other.salary
+    """
+    Функция сортировки для Класса Вакансий.
+    """
 
     def __str__(self):
         return (f'\nНазвание: {self.text}\nТребования: {self.requirement}\nОбязанности: {self.responsibility}\n'
