@@ -1,6 +1,5 @@
 import requests
 from crs.class_parser import All
-from crs.class_vacancy import Vacancy
 
 
 class HH(All):
@@ -13,16 +12,14 @@ class HH(All):
         response = requests.get(url=self.__url, params=params)
         return self.__conv_vac(response.json())
 
-    def __conv_vac(self, data) -> list[Vacancy]:
-        return [
-            Vacancy(
-                text=item['name'],
-                url=item['alternate_url'],
-                requirement=item['snippet']['requirement'],
-                responsibility=item['snippet']['responsibility'],
-                salary=(item.get('salary', {}) or {}).get('from', 0),
-                currency=(item.get('salary', {}) or {}).get('currency', 'RUB'))
-            for item in data['items']]
-
-    # def __repr__(self):
-    #     return f'{self.fet_info('java')}'
+    @staticmethod
+    def __conv_vac(data):
+        data_list = []
+        for item in data['items']:
+            items = {'text': (item['name']), 'url': (item['alternate_url']),
+                     'requirement': (item['snippet']['requirement']),
+                     'responsibility': (item['snippet']['responsibility']),
+                     'salary': (item.get('salary', {}) or {}).get('from', 0),
+                     'currency': (item.get('salary', {}) or {}).get('currency', 'RUB')}
+            data_list.append(items)
+        return data_list
