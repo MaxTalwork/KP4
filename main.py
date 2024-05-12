@@ -4,14 +4,15 @@ from crs.class_work_with_json import SaveJson
 
 hh = HH().get_information()
 
-vac_list = set(SaveJson.get_vacancyes(hh))
+vac_list = SaveJson.get_vacancyes(hh)
 
 suit_values = []
 user_request = work_with_user(vac_list, suit_values)
 
-save_json = SaveJson().save_to_json(user_request)
 
-for option in user_request:
-    print(option)
-
-
+if len(suit_values) > 0:
+    for option in user_request:
+        print(option)
+    save_json = SaveJson().save_to_json(user_request)
+else:
+    print(user_request)
