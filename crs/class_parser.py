@@ -2,8 +2,10 @@ from abc import ABC, abstractmethod
 
 
 class All(ABC):
-    # Абстрактный метод для подключения к API
-    @classmethod
+    """
+    РђР±СЃС‚СЂР°РєС‚РЅС‹Р№ РјРµС‚РѕРґ РґР»СЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє API
+    """
+
     @abstractmethod
-    def get_information(cls, *args, **kwargs):
-        return args
+    def get_information(self, text):
+        pass

@@ -2,19 +2,25 @@ from abc import ABC, abstractmethod
 
 
 class WorkWithFile(ABC):
-    # Абстрактный класс для работы с файлами
-    @classmethod
+    """
+    РђР±СЃС‚СЂР°РєС‚РЅС‹Р№ РєР»Р°СЃСЃ РґР»СЏ СЂР°Р±РѕС‚С‹ СЃ С„Р°Р№Р»Р°РјРё
+    """
+
     @abstractmethod
-    def save_to_json(cls, *args, **kwargs):
-        # Метод для записи в файл
-        return args, kwargs
+    def save_to_json(self, data_list):
+        """
+        РњРµС‚РѕРґ РґР»СЏ Р·Р°РїРёСЃРё РІ С„Р°Р№Р»
+        """
+        pass
 
-    @classmethod
-    def load_from_json(cls, *args, **kwargs):
-        # Метод для загрузки из файла
-        return args, kwargs
+    def load_from_json(self):
+        """
+        РњРµС‚РѕРґ РґР»СЏ Р·Р°РіСЂСѓР·РєРё РёР· С„Р°Р№Р»Р°
+        """
+        pass
 
-    @classmethod
-    def del_from_json(cls, *args, **kwargs):
-        # Метод для удаления данных из файла
-        return args, kwargs
+    def del_from_json(self):
+        """
+        РњРµС‚РѕРґ РґР»СЏ СѓРґР°Р»РµРЅРёСЏ РґР°РЅРЅС‹С… РёР· С„Р°Р№Р»Р°
+        """
+        pass

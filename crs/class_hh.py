@@ -3,25 +3,32 @@ from crs.class_parser import All
 
 
 class HH(All):
-    # класс для получения данных с HH
+    """
+    РєР»Р°СЃСЃ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РґР°РЅРЅС‹С… СЃ HH
+    """
+
     def __init__(self):
         self.__url = 'https://api.hh.ru/vacancies'
 
     def get_information(self, text):
-        # метод класса для подключения к API
-        params = {'name': text, 'area': 2, 'per_page': 100}
+        """
+        РјРµС‚РѕРґ РєР»Р°СЃСЃР° РґР»СЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє API
+        """
+        params = {'name': text, 'area': 1, 'per_page': 100}
         response = requests.get(url=self.__url, params=params)
         return self.__conv_vac(response.json())
 
     @staticmethod
     def __conv_vac(data):
-        # Метод для преобразования полученной информации в нужный формат
+        """
+        РњРµС‚РѕРґ РґР»СЏ РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёСЏ РїРѕР»СѓС‡РµРЅРЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРё РІ РЅСѓР¶РЅС‹Р№ С„РѕСЂРјР°С‚
+        """
         data_list = []
         for item in data['items']:
             items = {'text': (item['name']), 'url': (item['alternate_url']),
                      'requirement': (item['snippet']['requirement']),
                      'responsibility': (item['snippet']['responsibility']),
                      'salary': (item.get('salary', {}) or {}).get('from', 0),
-                     'currency': (item.get('salary', {}) or {}).get('currency', 'RUB')}
+                     'currency': (item.get('salary', {}) or {}).get('currency', 'RUR')}
             data_list.append(items)
         return data_list
