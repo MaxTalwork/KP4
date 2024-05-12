@@ -1,14 +1,9 @@
-import json
-from crs.class_work_with_json import SaveJson
-
-
 def work_with_user(data_list, suit_values):
-    answers = []
     user_request = input('Введите ключевые слова для поиска: ')
     check_vacansy_name(data_list, user_request, suit_values)
     check_vacansy_dis(data_list, user_request, suit_values)
     if len(suit_values) == 0:
-        return f'По вашему запросу не найдено подходящих вариантов!'
+        return f"По вашему запросу не найдено подходящих вариантов!"
     else:
         print(f'Найдено {len(suit_values)} подходящих результатов')
         req_quantity = int(is_digit(input('Сколько результатов вывести? ')))
