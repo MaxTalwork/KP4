@@ -7,5 +7,5 @@ class All(ABC):
     """
 
     @abstractmethod
-    def get_information(self, text):
+    def get_information(self):
         pass

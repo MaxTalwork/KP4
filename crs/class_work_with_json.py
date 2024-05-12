@@ -9,14 +9,23 @@ class SaveJson(WorkWithFile):
     """
 
     def __init__(self):
-        pass
+        json_file = 'vacancies.json'
 
     def save_to_json(self, data_list):
         """
         Метод для записи в файл типа json
         """
-        with open('vacancies.json', mode='w', encoding='utf-8') as f:
-            json.dump(data_list, f, indent=4, ensure_ascii=False)
+        items_list = []
+        for data in data_list:
+            item = {'text': data.text,
+                    'url': data.url,
+                    'requirement': data.requirement,
+                    'responsibility': data.responsibility,
+                    'salary': data.salary,
+                    'currency': data.salary_cor}
+            items_list.append(item)
+            with open('vacancies.json', mode='w', encoding='utf-8') as f:
+                json.dump(items_list, f, indent=4, ensure_ascii=False)
 
     def load_from_json(self):
         """
@@ -30,7 +39,6 @@ class SaveJson(WorkWithFile):
         """
         Метод для получения списка вакансий из файла json
         """
-
         vac_list = []
         for info in data:
             vac_list.append(Vacancy(
@@ -42,6 +50,12 @@ class SaveJson(WorkWithFile):
                 currency=info.get('currency')
             ))
         return vac_list
+
+    def del_from_json(self):
+        """
+        Метод для удаления данных из файла
+        """
+        open('vacancies.json', 'w').close()
 
     def __repr__(self):
         return f"{self.get_vacancyes}"

@@ -5,6 +5,7 @@ class Vacancy:
     Сортирует
     Выводит в нужном формате
     """
+
     def __init__(self, text, url, requirement, responsibility, salary, currency):
         self.text = text
         self.url = url
