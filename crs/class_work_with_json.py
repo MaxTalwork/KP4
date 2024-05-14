@@ -17,12 +17,12 @@ class SaveJson(WorkWithFile):
         """
         items_list = []
         for data in data_list:
-            item = {'text': data.text,
-                    'url': data.url,
-                    'requirement': data.requirement,
-                    'responsibility': data.responsibility,
-                    'salary': data.salary,
-                    'currency': data.salary_cor}
+            item = {'text': data['text'],
+                    'url': data['url'],
+                    'requirement': data['requirement'],
+                    'responsibility': data['responsibility'],
+                    'salary': data['salary'],
+                    'currency': data['currency']}
             items_list.append(item)
             with open(self.json_file, mode='w', encoding='utf-8') as f:
                 json.dump(items_list, f, indent=4, ensure_ascii=False)
