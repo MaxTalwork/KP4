@@ -2,7 +2,8 @@ from crs.class_hh import HH
 from data.functions import work_with_user
 from crs.class_work_with_json import SaveJson
 
-hh = HH().get_information()
+user_input = input('Укажите название вакансии: ')
+hh = HH().get_information(user_input)
 
 vac_list = SaveJson.get_vacancyes(hh)
 

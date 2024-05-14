@@ -10,11 +10,11 @@ class HH(All):
     def __init__(self):
         self.__url = 'https://api.hh.ru/vacancies'
 
-    def get_information(self):
+    def get_information(self, text):
         """
         метод класса для подключения к API
         """
-        params = {'name': 'text', 'area': 1, 'per_page': 100}
+        params = {'text': text, 'area': 1, 'per_page': 100}
         response = requests.get(url=self.__url, params=params)
         return self.__conv_vac(response.json())
 
