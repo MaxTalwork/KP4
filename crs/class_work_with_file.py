@@ -13,12 +13,14 @@ class WorkWithFile(ABC):
         """
         pass
 
+    @abstractmethod
     def load_from_json(self):
         """
         Метод для загрузки из файла
         """
         pass
 
+    @abstractmethod
     def del_from_json(self):
         """
         Метод для удаления данных из файла
